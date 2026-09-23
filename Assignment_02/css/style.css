@@ -597,6 +597,10 @@ a.sitename {
 	max-width: 100%;
 	width: 100%;
 }
+#contents .media-figure.season-image img {
+	aspect-ratio: 1.625 / 1;
+	object-fit: cover;
+}
 #contents .media-figure figcaption {
 	color: #525252;
 	font-size: 14px;
