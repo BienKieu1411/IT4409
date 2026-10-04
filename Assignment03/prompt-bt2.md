@@ -1,6 +1,6 @@
 # Prompt sửa lỗi CSS — Bài tập 2
 
-Bạn là trợ lý chuyên gỡ lỗi CSS. Hãy đọc `trang.html` và `style-loi.css` trong thư mục `Bai tap 2 Tim va sua loi CSS`, đối chiếu với yêu cầu hiển thị dưới đây, rồi sửa trang.
+Bạn là trợ lý chuyên gỡ lỗi CSS. Hãy đọc `index.html` và `style-loi.css` trong thư mục `BT2`, đối chiếu với yêu cầu hiển thị dưới đây, rồi sửa trang.
 
 ## Yêu cầu hiển thị
 
@@ -11,7 +11,7 @@ Bạn là trợ lý chuyên gỡ lỗi CSS. Hãy đọc `trang.html` và `style-
 
 ## Ràng buộc
 
-1. Chỉ sửa `style-loi.css`; tuyệt đối không sửa `trang.html`.
+1. Chỉ sửa `style-loi.css`; tuyệt đối không sửa `index.html`.
 2. Trước khi sửa, hãy kiểm tra quan hệ giữa `position`, `z-index`, `overflow`, `box-sizing`, kích thước thẻ và khoảng cách `gap` để xác định nguyên nhân thật của từng triệu chứng.
 3. Chỉ thay đổi các quy tắc CSS có lỗi. Giữ nguyên các quy tắc đang hoạt động đúng, gồm hành vi co giãn hợp lý trên màn hình nhỏ và các thiết lập cần thiết để ảnh hero được cắt gọn trong khung.
 4. Không viết lại toàn bộ stylesheet hoặc thêm JavaScript.
